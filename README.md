@@ -1,6 +1,11 @@
+> [!WARNING]  
+> Due to an unforeseen decision, ECA Solar LLC can no longer support the development of this project. Our team really appreciate the past support from ECA. If you are intersted in the future of this project, please head to [new repository](https://github.com/lilingxi01/smartsheet-typescript) for future updates or PRs.
+
 ![Cover](https://imagedelivery.net/Dr98IMl5gQ9tPkFM5JRcng/afca3dd9-65b1-4fc0-97ef-4002071e8a00/Ultra)
 
 # Smartsheet TypeScript SDK (Monorepo)
+
+**IMPORTANT: Maintenance and development has fully stopped for this repo. Please head to [new repository](https://github.com/lilingxi01/smartsheet-typescript) for future updates or PRs.**
 
 ## Package Documentation
 
